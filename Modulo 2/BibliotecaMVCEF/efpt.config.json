@@ -1,0 +1,51 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "BibliotecaContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": "DbContext",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "BibliotecaMVCEF",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Leitor]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Obras]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Requisicoes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[V_Requisicoes_Obra]",
+         "ObjectType": 3
+      }
+   ],
+   "UiHint": "ALENOTE.Biblioteca",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
