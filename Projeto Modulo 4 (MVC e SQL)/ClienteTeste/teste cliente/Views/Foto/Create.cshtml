@@ -1,0 +1,48 @@
+﻿@model teste_cliente.Models.Foto
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Foto</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group" hidden>
+                <label asp-for="Id" class="control-label"></label>
+                <input asp-for="Id" class="form-control" />
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdCandidatoFoto" class="control-label"></label>
+                <input asp-for="IdCandidatoFoto" class="form-control" />
+                <span asp-validation-for="IdCandidatoFoto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                 <label asp-for="FotoPerfil" style="width: 100%;" class="control-label"></label>
+                    <input type="file"
+                           accept=".png,.jpg,.jpeg,.gif,.tif"
+                           asp-for="FotoPerfil"
+                           class="form-control"
+                           style="border:0px!important;padding: 0px;padding-top: 10px;padding-bottom: 30px;"
+                           onchange="document.getElementById('FotoPerfil').src = window.URL.createObjectURL(this.files[0])" />
+                   <span asp-validation-for="FotoPerfil" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

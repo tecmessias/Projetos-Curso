@@ -1,0 +1,59 @@
+﻿@model IEnumerable<teste_cliente.Models.AplicacaoTrabalho>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdAplicacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdOferta)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdCandidato)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataAplicacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AplicacaoAceite)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdAplicacao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdOferta)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdCandidato)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataAplicacao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AplicacaoAceite)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.IdAplicacao }) |
+                @Html.ActionLink("Details", "Details", new { id=item.IdAplicacao }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.IdAplicacao })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

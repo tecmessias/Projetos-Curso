@@ -1,0 +1,83 @@
+﻿@model IEnumerable<teste_cliente.Models.Empresa>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdEmpresa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Localidade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NoFuncionarios)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ZonaAtuacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LinkedIn)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Facebook)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdEmpresa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Localidade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Telefone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NoFuncionarios)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ZonaAtuacao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LinkedIn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Facebook)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.IdEmpresa  }) |
+                @Html.ActionLink("Details", "Details", new { id=item.IdEmpresa }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.IdEmpresa })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

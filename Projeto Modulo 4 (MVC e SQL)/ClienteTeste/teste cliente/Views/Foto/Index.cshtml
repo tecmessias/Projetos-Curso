@@ -1,0 +1,50 @@
+﻿@model IEnumerable<teste_cliente.Models.Foto>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdCandidatoFoto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FotoPerfil)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdCandidatoFoto)
+            </td>
+           <td>
+               @if(@item.FotoPerfil != null)
+                 {
+                    <img class="Foto" object-fit:cover" src="data:foto/*;base64,@(Convert.ToBase64String(@item.FotoPerfil))">
+                 }
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.Id }) |
+                @Html.ActionLink("Details", "Details", new { id=item.Id  }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.Id  })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

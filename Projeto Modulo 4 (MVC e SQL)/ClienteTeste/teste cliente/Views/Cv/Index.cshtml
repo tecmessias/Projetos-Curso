@@ -1,0 +1,78 @@
+﻿@model IEnumerable<teste_cliente.Models.CV>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdCV)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Localizacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Educacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExpProfissional)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Competencias)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Interesses)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdCandidatoCv)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdCV)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Localizacao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Educacao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExpProfissional)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Competencias)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Interesses)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdCandidatoCv)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.IdCV }) |
+                @Html.ActionLink("Details", "Details", new {  id=item.IdCV }) |
+                @Html.ActionLink("Delete", "Delete", new {  id=item.IdCV })
+                @Html.ActionLink("GetCandidato", "GetCandidato", new {  id=item.IdCandidatoCv })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

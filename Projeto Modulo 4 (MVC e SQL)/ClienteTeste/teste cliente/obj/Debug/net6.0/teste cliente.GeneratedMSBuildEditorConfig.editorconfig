@@ -1,0 +1,136 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = teste_cliente
+build_property.RootNamespace = teste_cliente
+build_property.ProjectDir = C:\Users\jpluc\OneDrive\Área de Trabalho\Tentativa10000\ClienteTeste\teste cliente\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\jpluc\OneDrive\Área de Trabalho\Tentativa10000\ClienteTeste\teste cliente
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/AplicacaoTrabalho/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBsaWNhY2FvVHJhYmFsaG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/AplicacaoTrabalho/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBsaWNhY2FvVHJhYmFsaG9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/AplicacaoTrabalho/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBsaWNhY2FvVHJhYmFsaG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/AplicacaoTrabalho/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBsaWNhY2FvVHJhYmFsaG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/Candidato/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/Candidato/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/Candidato/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/Candidato/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/Cv/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3ZcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/Cv/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3ZcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/Cv/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3ZcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/Cv/GetCandidato.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3ZcR2V0Q2FuZGlkYXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/Cv/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3ZcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/Empresa/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/Empresa/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/Empresa/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/Empresa/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/Foto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/Foto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm90b1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/OfertaEmprego/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZlcnRhRW1wcmVnb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/OfertaEmprego/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZlcnRhRW1wcmVnb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/OfertaEmprego/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZlcnRhRW1wcmVnb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/OfertaEmprego/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZlcnRhRW1wcmVnb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpluc/OneDrive/Área de Trabalho/Tentativa10000/ClienteTeste/teste cliente/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-zyxsnsq8nx

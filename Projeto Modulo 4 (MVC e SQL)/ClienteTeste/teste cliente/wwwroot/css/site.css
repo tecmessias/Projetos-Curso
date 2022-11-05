@@ -1,0 +1,33 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.Foto{
+    max-height : 100px;
+    max-width : 100px;
+}
+#hero {
+    background-image: url(../img/banner.jpg);
+    background-color: #4F4F4F;
+    height: 350px;
+    background-size: cover;
+    margin-bottom: 5px;
+}
+.mt-10 {
+    margin-top: 18rem !important;
+}

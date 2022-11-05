@@ -1,0 +1,89 @@
+﻿@model IEnumerable<teste_cliente.Models.OfertaEmprego>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdOferta)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdEmpresa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Titulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Salario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Jornada)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Localização)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RegimeTrabalho)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoContrato)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Requisitos)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VagaDisponivel)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdOferta)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdEmpresa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Salario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Jornada)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Localização)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RegimeTrabalho)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipoContrato)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Requisitos)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VagaDisponivel)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.IdOferta  }) |
+                @Html.ActionLink("Details", "Details", new { id=item.IdOferta }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.IdOferta })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
