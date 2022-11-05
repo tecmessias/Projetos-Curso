@@ -1,0 +1,93 @@
+﻿@model IEnumerable<BibliotecaMVCEF.Models.VRequisicoesObra>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Controle de Requisição</h2>
+
+<p>
+    <a class= "btn btn-primary p-1" asp-action="Create">Nova Requisição</a>
+</p>
+<table id="myTable" class="table">
+    <thead>
+        <tr>
+            <th>
+               Nome do Leitor
+            </th>
+            <th>
+                Titulo da Obra
+            </th>
+           
+            <th>
+                Data da Requisição
+            </th>
+            <th>
+                Data Prevista de Devolução
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Devolvido)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titulo)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.DataRequisicao)
+            </td>
+
+                @{
+                    var styleStatus ="text-white bg-success";
+                    if(item.Devolvido == true)
+                    {
+                        styleStatus = "";
+
+                    }
+                    else
+                    {
+                         if(DateTime.Now.Date > item.DataDevolucao)
+                        {
+                            styleStatus = "text-white bg-danger";
+                        }else if (DateTime.Now.Date.Equals(item.DataDevolucao))
+                        {
+                           styleStatus ="bg-warning";
+                        }
+
+                    }
+
+                       
+                    }
+
+
+
+            <td class="@styleStatus">
+               @Html.DisplayFor(modelItem => item.DataDevolucao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Devolvido)
+            </td>
+            <td>
+                <a class= "btn btn-primary p-1" asp-action="Edit" asp-route-id="@item.Id">Editar</a> 
+                
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+@section Scripts{
+    <script>
+        $(document).ready( function () {
+    $('#myTable').DataTable();
+} );
+    </script>
+}

@@ -1,0 +1,201 @@
+﻿@model RequisicoesViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h3>Adicionar Novas Requisições</h3>
+<table id="TableLeitor" class="table">
+    <thead>
+        <tr>
+            <th>
+               Id Leitor
+            </th>
+            <th>
+               Nome Leitor
+            </th>
+           </tr>
+    </thead>
+    <tbody>
+ @foreach (var item in Model.oListLeitor) {
+        <tr onclick="passIdLeitor('@item.Id')">           
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+             </tr>
+            }
+             </tbody>
+</table>
+<br />
+<table id="TableObras" class="table">
+    <thead>
+        <tr>
+           
+             <th>
+                Id da Obra
+            </th>
+            <th>
+                Titulo da Obra
+            </th>
+                   
+           
+        </tr>
+    </thead>
+    <tbody>
+   @foreach (var item in Model.oListObras) {
+        <tr onclick="passIdObra('@item.Id')">           
+           
+          
+           <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>                
+            <td>
+                @Html.DisplayFor(modelItem => item.Titulo)
+            </td>
+            </tr>
+
+            }            
+           
+    </tbody>
+</table>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+                 
+
+
+                <div class="form-group">
+                <label asp-for="idLeitor" class="control-label">Id do Leitor Requisitante</label>
+                <input asp-for="idLeitor" class="form-control" />
+                <span asp-validation-for="idLeitor" class="text-danger"></span>
+            </div>
+          
+
+
+            <div class="form-group">
+                <label asp-for="idObras" class="control-label">Id da Obra Requisitada</label>
+                <input id="idObras" asp-for="idObras" class="form-control" />
+                <span asp-validation-for="idObras" class="text-danger"></span>
+            </div>
+
+                 
+
+
+
+<div class="card">
+    <div class="card-header">Datas</div>
+        <div class="card-body row-cols-2">
+
+             <div class="col-md">
+                   <div class="form-group">
+                    <label asp-for="DataRequisicao" class="control-label"></label>
+                    <input readonly=readonly asp-for="DataRequisicao" class="form-control" />
+                    <span asp-validation-for="DataRequisicao" class="text-danger"></span>
+                    </div>
+             </div>
+            <div class="col-md">
+                <div class="form-group">
+                <label asp-for="DataDevolucao" class="control-label"></label>
+                <input asp-for="DataDevolucao" class="form-control" />
+                <span asp-validation-for="DataDevolucao" class="text-danger"></span>
+                </div>
+            </div>
+
+        </div>
+</div>
+<br />
+                          
+            <div class="form-group">
+                <input type="submit" value="Concluir Requisição" class="btn btn-success"/>
+            </div>
+        </form>
+    </div>
+</div>
+<br />
+<div>
+    <a class="btn btn-secondary" asp-action="Index">Voltar</a>
+</div>
+
+
+
+
+
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+
+<script>
+var tabela = document.getElementById("TableLeitor");
+var linhas = tabela.getElementsByTagName("tr");
+for(var i = 0; i < linhas.length; i++){
+	var linha = linhas[i];
+  linha.addEventListener("click", function(){
+  	
+		selLinha(this, false); 
+                
+	});
+}
+
+function selLinha(linha, multiplos){
+  if(!multiplos){
+  	var linhas = linha.parentElement.getElementsByTagName("tr");
+        for(var i = 0; i < linhas.length; i++){
+           var linha_ = linhas[i];
+           linha_.classList.remove("selecionado");    
+        }
+  }
+  linha.classList.toggle("selecionado");
+}
+
+
+var tabelao = document.getElementById("TableObras");
+var linhasO = tabelao.getElementsByTagName("tr");
+for(var i = 0; i < linhasO.length; i++){
+	var linhaO = linhasO[i];
+  linhaO.addEventListener("click", function(){
+  	
+		selLinhaO(this, false); 
+                
+	});
+}
+
+function selLinhaO(linhaO, multiplos){
+  if(!multiplos){
+  	var linhasO = linhaO.parentElement.getElementsByTagName("tr");
+        for(var i = 0; i < linhasO.length; i++){
+           var linhaO_ = linhasO[i];
+           linhaO_.classList.remove("selecionado");    
+        }
+  }
+  linhaO.classList.toggle("selecionado");
+}
+
+
+   $(document).ready( function () {var TableObras = $('#TableObras').DataTable();});
+
+   $(document).ready( function () {var TableLeitor = $('#TableLeitor').DataTable();});
+
+
+   function passIdLeitor(idLeitor){
+       document.getElementById('idLeitor').value = idLeitor;
+       console.log(idLeitor);
+   }
+
+   function passIdObra(idObra){
+       document.getElementById('idObra').value = idObras;
+       console.log(idObra);
+   }
+   
+</script>
+}

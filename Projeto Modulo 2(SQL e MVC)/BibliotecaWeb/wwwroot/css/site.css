@@ -1,0 +1,89 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+#TableLeitor thead th {
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+}
+
+
+
+#TableLeitor tr td {
+    padding: 5px 10px;
+    text-align: center;
+    cursor: pointer; /**importante para não mostrar cursor de texto**/
+}
+
+    #TableLeitor tr td:last-child {
+        text-align: center;
+    }
+
+/**Cores**/
+#TableLeitor tr:nth-child(odd) {
+    background-color: #eee;
+}
+
+/**Cor quando passar por cima**/
+#TableLeitor tr:hover td {
+    background-color: #feffb7;
+}
+
+/**Cor quando selecionado**/
+#TableLeitor tr.selecionado td {
+    background-color: #aff7ff;
+}
+
+
+
+
+
+
+#TableObras thead th {
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+}
+
+#TableObras tr td {
+    padding: 5px 10px;
+    text-align: center;
+    cursor: pointer; 
+}
+
+    #TableObras tr td:last-child {
+        text-align: center;
+    }
+
+/**Cores**/
+#TableObras tr:nth-child(odd) {
+    background-color: #eee;
+}
+
+/**Cor quando passar por cima**/
+#TableObras tr:hover td {
+    background-color: #feffb7;
+}
+
+/**Cor quando selecionado**/
+#TableObras tr.selecionado td {
+    background-color: #aff7ff;
+}

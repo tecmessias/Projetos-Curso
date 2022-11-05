@@ -1,0 +1,51 @@
+﻿@page
+@model CursosModel
+@{
+    
+    Layout = "_LayoutP";
+
+}
+
+@{
+    List<Dictionary<string, Object>> dct = Business.GetCatalog();
+     
+    int rowNum = 0;
+} 
+
+
+
+
+    
+    
+        <div >
+
+        
+              
+                <div >
+                
+                    <div >
+                    <a class="nav-link text-dark" asp-area="" asp-page="/Cursos"><img src="~/img/curso1.jpg" class="imagen-curso u-full-width" onclick="(`@dct[rowNum]["isbn"]`);"></a>
+                    <h4> @dct[rowNum]["titulo"]</h4>
+                    <p>@dct[rowNum]["autor"]</p>
+                    <img src="img/estrelas.png">
+                    <p>Preço<span class="u-pull-right ">Oferta</span></p>
+                    <p class="preco">€ @dct[rowNum]["preco"]<span class="u-pull-right ">€@dct[rowNum]["promocao"]</span></p>
+                    <a href="#"><img src="img/heart.png"  id="img-carrinho" onclick="adicionar_favorito(`+ val.isbn + `)"></a>
+                    <a href="#" class="u-full-width button-primary button input adicionar-carrinho"
+                    data-id="1" key="@dct[rowNum]["isbn"]" onclick="adicionar_carrinho(`@dct[rowNum]["isbn"]`);" id="incart">Adicionar ao Carrinho</a>
+                    
+                    </div>
+                    
+                </div>
+               
+        
+        
+
+    </div>
+    
+
+
+
+
+
+

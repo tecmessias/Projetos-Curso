@@ -1,0 +1,116 @@
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\bin\Debug\net6.0\appsettings.Development.json
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\bin\Debug\net6.0\appsettings.json
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\bin\Debug\net6.0\WebAPI1.exe
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\bin\Debug\net6.0\WebAPI1.deps.json
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\bin\Debug\net6.0\WebAPI1.runtimeconfig.json
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\bin\Debug\net6.0\WebAPI1.dll
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\bin\Debug\net6.0\WebAPI1.pdb
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.csproj.AssemblyReference.cache
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.GeneratedMSBuildEditorConfig.editorconfig
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.AssemblyInfoInputs.cache
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.AssemblyInfo.cs
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.csproj.CoreCompileInputs.cache
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.MvcApplicationPartsAssemblyInfo.cache
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\obj\Debug\net6.0\staticwebassets.build.json
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\obj\Debug\net6.0\staticwebassets.development.json
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\obj\Debug\net6.0\scopedcss\bundle\WebAPI1.styles.css
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.dll
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\obj\Debug\net6.0\refint\WebAPI1.dll
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.pdb
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.genruntimeconfig.cache
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\obj\Debug\net6.0\ref\WebAPI1.dll
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\IceDrive\ISCTE\UpSkills\2022\Turma 2\Modulo 3\Exercicios\VS2022\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.csproj.CopyComplete
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\appsettings.json
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\WebAPI1.exe
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\WebAPI1.deps.json
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\WebAPI1.runtimeconfig.json
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\WebAPI1.dll
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\WebAPI1.pdb
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.csproj.AssemblyReference.cache
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.AssemblyInfoInputs.cache
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.AssemblyInfo.cs
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.csproj.CoreCompileInputs.cache
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\scopedcss\bundle\WebAPI1.styles.css
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.csproj.CopyComplete
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.dll
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\refint\WebAPI1.dll
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.pdb
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.genruntimeconfig.cache
+C:\Users\Sandro\Documents\upskill\modulo3\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\ref\WebAPI1.dll
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\appsettings.json
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\WebAPI1.exe
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\WebAPI1.deps.json
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\WebAPI1.runtimeconfig.json
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\WebAPI1.dll
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\WebAPI1.pdb
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.csproj.AssemblyReference.cache
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.AssemblyInfoInputs.cache
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.AssemblyInfo.cs
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\scopedcss\bundle\WebAPI1.styles.css
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.csproj.CopyComplete
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.dll
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\refint\WebAPI1.dll
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.pdb
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.genruntimeconfig.cache
+C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\tarefas\WebAPI1\WebAPI1\obj\Debug\net6.0\ref\WebAPI1.dll
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\bin\Debug\net6.0\appsettings.json
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\bin\Debug\net6.0\WebAPI1.exe
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\bin\Debug\net6.0\WebAPI1.deps.json
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\bin\Debug\net6.0\WebAPI1.runtimeconfig.json
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\bin\Debug\net6.0\WebAPI1.dll
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\bin\Debug\net6.0\WebAPI1.pdb
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.csproj.AssemblyReference.cache
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.AssemblyInfoInputs.cache
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.AssemblyInfo.cs
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\obj\Debug\net6.0\scopedcss\bundle\WebAPI1.styles.css
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.csproj.CopyComplete
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.dll
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\obj\Debug\net6.0\refint\WebAPI1.dll
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.pdb
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\obj\Debug\net6.0\WebAPI1.genruntimeconfig.cache
+C:\Users\Ale\Downloads\upskill\Modulo 4\projeto M4\carrinho com API\WebAPI1\WebAPI1\obj\Debug\net6.0\ref\WebAPI1.dll

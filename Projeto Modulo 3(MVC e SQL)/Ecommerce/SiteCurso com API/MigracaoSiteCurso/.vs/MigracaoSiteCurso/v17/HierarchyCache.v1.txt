@@ -1,0 +1,273 @@
+﻿++Solution 'MigracaoSiteCurso' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:MigracaoSiteCurso.sln
+++MigracaoSiteCurso
+i:{00000000-0000-0000-0000-000000000000}:MigracaoSiteCurso
+++Connected Services 
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:>191
+++No service dependencies discovered
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:>192
+++Dependencies
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:>190
+++Analyzers
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:analyzers
+++Microsoft.AspNetCore.Analyzers
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.0-preview.3.22175.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Frameworks
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:frameworks
+++Packages
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:packages
+++Microsoft.EntityFrameworkCore.Design (7.0.0-preview.3.22175.1)
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:>326
+++Properties
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\properties\
+++launchSettings.json
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\properties\launchsettings.json
+++wwwroot
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\
+++css
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\css\
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\
+++custom.css
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\css\custom.css
+++normalize.css
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\css\normalize.css
+++site.css
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\css\site.css
+++skeleton.css
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\css\skeleton.css
+++js
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\js\
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\js\
+++site.js
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\js\site.js
+++lib
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\
+++favicon.ico
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\favicon.ico
+++Pages
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\pages\
+++Shared
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\pages\shared\
+++_Layout.cshtml
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\pages\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\pages\shared\_validationscriptspartial.cshtml
+++_ViewImports.cshtml
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\pages\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\pages\_viewstart.cshtml
+++Cursos.cshtml
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\pages\cursos.cshtml
+++Cursos.cshtml.cs
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\pages\cursos.cshtml.cs
+++Error.cshtml
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\pages\error.cshtml
+++Index.cshtml
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\pages\index.cshtml
+++Index.cshtml.cs
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\pages\index.cshtml.cs
+++Privacy.cshtml
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\pages\privacy.cshtml
+++Privacy.cshtml.cs
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\pages\privacy.cshtml.cs
+++appsettings.json
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\appsettings.json
+++appsettings.Development.json
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\appsettings.development.json
+++Program.cs
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\program.cs
+++Microsoft.AspNetCore.App
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\microsoft.netcore.app
+++bootstrap
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\
+++jquery
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\jquery\
+++jquery-validation
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\jquery-validation-unobtrusive\
+++_Layout.cshtml.css
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\pages\shared\_layout.cshtml.css
+++Error.cshtml.cs
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\pages\error.cshtml.cs
+++dist
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\jquery\dist\
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\jquery\license.txt
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++site - Copy.js
+++cursos.js
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\js\cursos.js
+++tools.js
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\js\tools.js
+++NewFolder
+++img
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\img\
+++cartb.png
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\img\cartb.png
+++curso1.jpg
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\img\curso1.jpg
+++curso2.jpg
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\img\curso2.jpg
+++curso3.jpg
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\img\curso3.jpg
+++curso4.jpg
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\img\curso4.jpg
+++curso5.jpg
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\img\curso5.jpg
+++curso6.png
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\img\curso6.png
+++estrelas.png
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\img\estrelas.png
+++heart.png
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\img\heart.png
+++hero.jpg
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\img\hero.jpg
+++icon1.png
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\img\icon1.png
+++icon2.png
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\img\icon2.png
+++icon3.png
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\img\icon3.png
+++logo.jpg
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\img\logo.jpg
+++lupa.png
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\img\lupa.png
+++medalha.png
+i:{7d31ab9e-5053-43cc-9a49-178afb59c648}:c:\users\ale\downloads\upskill\modulo 3\tarefas\migracaositecurso\migracaositecurso\wwwroot\img\medalha.png

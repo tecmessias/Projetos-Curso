@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    
+	<script type="text/javascript">
+		function getData(url, fn) {
+			let xhr = new XMLHttpRequest();
+			if (!('withCredentials' in xhr)) xhr = new XDomainRequest(); 
+			xhr.open('GET', url);
+			xhr.onload = fn;
+			xhr.send();
+			return xhr;
+		}
+
+		function saveData(url, fn) {
+			let xhr = new XMLHttpRequest();
+			if (!('withCredentials' in xhr)) xhr = new XDomainRequest(); 
+			xhr.open('POST', url);
+			xhr.setRequestHeader('Content-type', 'application/json')
+			xhr.send(fn());
+			
+			xhr.onload = function() {
+				return xhr.responseText;
+			}				
+		}
+
+		function getCatalog(request) {
+			let response = request.currentTarget.response || request.target.responseText;
+			let data = JSON.parse(response);
+
+			let listData = "";
+			for (let i = 0; i < data.length; ++i) {
+				listData += "<li>" + data[i].titulo + " --- " + data[i].autor
+			}
+
+			let lst = document.getElementById("myData");
+			lst.innerHTML = listData;
+		}
+
+		function getItem(request) {
+			let response = request.currentTarget.response || request.target.responseText;
+			let data = JSON.parse(response);
+
+			let listData = "";
+			for (let i = 0; i < data.length; ++i) {
+				listData += "<li>" + data[i].titulo + " --- " + data[i].autor
+			}
+
+			let lst = document.getElementById("myData");
+			lst.innerHTML = listData;
+		}
+
+		function saveItem() {
+			let listData = new Object();
+			listData.isbn=
+			listData.titulo="Name1";
+			listData.autor="Author1";
+			return JSON.stringify(listData);
+		}
+		
+		function saveItem1() {
+			let listData = [];
+			listData.isbn=[102]
+			
+			
+			return JSON.stringify(listData);
+		}
+    </script>
+</head>
+<body>
+
+    <h2>API Client</h2>
+
+	<button onclick="getData('http://localhost:5064/catalog', getCatalog)">Load Data</button>
+
+	<button onclick="getData('http://localhost:5064/getitem?id=3', getItem)">Load Item</button>
+
+	<button onclick="saveData('http://localhost:5064/savevendas', saveItem1)">Save Data</button>
+	
+    <ul id="myData">
+    </ul>
+
+</body>
+</html>  

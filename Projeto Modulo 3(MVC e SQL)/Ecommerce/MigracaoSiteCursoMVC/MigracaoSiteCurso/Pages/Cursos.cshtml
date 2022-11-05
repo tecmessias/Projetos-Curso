@@ -1,0 +1,66 @@
+﻿@page
+@model CursosModel
+@{
+    
+    Layout = "_Layout2";
+
+}
+
+@{
+    List<Dictionary<string, Object>> dct = Business.GetCatalog();
+    
+    int rowNum = 0;
+} 
+
+<div class="card" id="card">
+
+@for(int i = 0; i < 4; i++)
+{
+     <div class="row">
+
+        @for(int j = 0; j<3; j++){
+            if (rowNum >= dct.Count) break;
+            <div class="four columns">
+                 <div class="info-card">
+                     <form method="post">
+                    <a class="nav-link text-dark" asp-area="" asp-page="/CursosProduto"><img src="~/img/@dct[rowNum]["nomeimagem"]" class="imagen-curso u-full-width" key="@rowNum" onclick="@rowNum"></a>
+                    </form>
+                    
+                    <h4> @dct[rowNum]["titulo"]</h4>
+                    <p>@dct[rowNum]["autor"]</p>
+                    <img src="img/estrelas.png">
+                    <p>Preço<span class="u-pull-right ">Oferta</span></p>
+                    <p class="preco">€ @dct[rowNum]["preco"]<span class="u-pull-right ">€@dct[rowNum]["promocao"]</span></p>
+                    <a href="#"><img src="img/heart.png"  id="img-carrinho" onclick="adicionar_favorito(`+ val.isbn + `)"></a>
+                    <a href="#" class="u-full-width button-primary button input adicionar-carrinho"
+                    data-id="1" key="@dct[rowNum]["isbn"]" onclick="adicionar_carrinho(`@dct[rowNum]["isbn"]`);" id="incart">Adicionar ao Carrinho</a>
+                 </div>
+             </div>
+          rowNum = rowNum + 1;
+        }
+    </div>
+}
+</div>
+
+   
+   
+<form method="post" class="container border text-left pt-2 mb-3">
+    <div class="form-row form-group">
+        <div class="col">
+            <label asp-for="TotalItems">Total number of items</label>
+            <select asp-for="TotalItems" asp-items="Model.TotalItemsList" class="form-control form-control-sm" onchange="this.form.submit()"></select>
+        </div>
+        <div class="col">
+            <label asp-for="PageSize">Items per page</label>
+            <select asp-for="PageSize" asp-items="Model.PageSizeList" class="form-control form-control-sm" onchange="this.form.submit()"></select>
+        </div>
+        <div class="col">
+            <label asp-for="MaxPages">Max page links displayed</label>
+            <select asp-for="MaxPages" asp-items="Model.MaxPagesList" class="form-control form-control-sm" onchange="this.form.submit()"></select>
+        </div>
+    </div>
+        </form>
+
+
+
+

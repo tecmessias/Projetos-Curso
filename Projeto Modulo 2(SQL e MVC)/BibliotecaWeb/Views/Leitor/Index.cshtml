@@ -1,0 +1,52 @@
+﻿@model IEnumerable<BibliotecaMVCEF.Models.Leitor>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Controle de Leitores</h2>
+
+<p>
+    <a class= "btn btn-primary p-1" asp-action="Create">Criar Novo</a>
+</p>
+<table id= "myTable" class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Endereco)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Endereco)
+            </td>
+            <td >
+                <a asp-action="Edit" class= "btn btn-primary" asp-route-id="@item.Id">Edit</a>
+                <a asp-action="Details" class= "btn btn-primary" asp-route-id="@item.Id">Details</a>
+                <a asp-action="Delete" class= "btn btn-danger" asp-route-id="@item.Id">Excluir</a>
+                
+
+
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+@section Scripts{
+    <script>
+        $(document).ready( function () {
+    $('#myTable').DataTable();
+} );
+    </script>
+}

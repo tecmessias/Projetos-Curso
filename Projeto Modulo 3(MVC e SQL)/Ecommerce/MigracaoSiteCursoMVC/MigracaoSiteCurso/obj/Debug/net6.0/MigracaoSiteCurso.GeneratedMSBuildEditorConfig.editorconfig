@@ -1,0 +1,68 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MigracaoSiteCurso
+build_property.RootNamespace = MigracaoSiteCurso
+build_property.ProjectDir = C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\MigracaoSiteCurso\MigracaoSiteCurso\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Ale\Downloads\upskill\Modulo 3\tarefas\MigracaoSiteCurso\MigracaoSiteCurso
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Ale/Downloads/upskill/Modulo 3/tarefas/MigracaoSiteCurso/MigracaoSiteCurso/Pages/Cursos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3Vyc29zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ale/Downloads/upskill/Modulo 3/tarefas/MigracaoSiteCurso/MigracaoSiteCurso/Pages/CursosProduto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3Vyc29zUHJvZHV0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ale/Downloads/upskill/Modulo 3/tarefas/MigracaoSiteCurso/MigracaoSiteCurso/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ale/Downloads/upskill/Modulo 3/tarefas/MigracaoSiteCurso/MigracaoSiteCurso/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ale/Downloads/upskill/Modulo 3/tarefas/MigracaoSiteCurso/MigracaoSiteCurso/Pages/Pagination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnaW5hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ale/Downloads/upskill/Modulo 3/tarefas/MigracaoSiteCurso/MigracaoSiteCurso/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ale/Downloads/upskill/Modulo 3/tarefas/MigracaoSiteCurso/MigracaoSiteCurso/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ale/Downloads/upskill/Modulo 3/tarefas/MigracaoSiteCurso/MigracaoSiteCurso/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ale/Downloads/upskill/Modulo 3/tarefas/MigracaoSiteCurso/MigracaoSiteCurso/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ale/Downloads/upskill/Modulo 3/tarefas/MigracaoSiteCurso/MigracaoSiteCurso/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gjrmtdjiuv
+
+[C:/Users/Ale/Downloads/upskill/Modulo 3/tarefas/MigracaoSiteCurso/MigracaoSiteCurso/Pages/Shared/_Layout2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-6xuqyr4j1q
+
+[C:/Users/Ale/Downloads/upskill/Modulo 3/tarefas/MigracaoSiteCurso/MigracaoSiteCurso/Pages/Shared/_LayoutP.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXRQLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-nrirxzm1q4
+
+[C:/Users/Ale/Downloads/upskill/Modulo 3/tarefas/MigracaoSiteCurso/MigracaoSiteCurso/Pages/Shared/_LayoutPag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXRQYWcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-sd2m0t1d1j

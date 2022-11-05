@@ -1,0 +1,56 @@
+﻿@model BibliotecaMVCEF.Models.VRequisicoesObra
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h4>Editar Requisição</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Nome" class="control-label">Nome Leitor</label>
+                <input readonly=readonly asp-for="Nome" class="form-control" />
+                <span asp-validation-for="Nome" class="text-danger"></span>
+            </div>
+             <div class="form-group">
+                <label asp-for="Titulo" class="control-label">Titulo Obra</label>
+                <input readonly=readonly asp-for="Titulo" class="form-control" />
+                <span asp-validation-for="Titulo" class="text-danger"></span>
+            </div>
+              <div class="form-group">
+                <label asp-for="DataDevolucao" class="control-label"></label>
+                <input asp-for="DataDevolucao" class="form-control" />
+                <span asp-validation-for="DataDevolucao" class="text-danger"></span>
+            </div>
+             <div>
+                
+                    Devolvido
+             
+            <div>
+                <select asp-for="Devolvido"  id='ddlTrueFalse' name='ddlTrueFalse'>
+                  <option value='0'>Não</option>
+                  <option value='1'>Sim</option>
+                </select>
+
+            </div>
+
+            <br />
+           
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<br />
+<div>
+    <a class= "btn btn-primary p-1" asp-action="Index">Voltar para Home</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
