@@ -2645,24 +2645,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jpluc\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Ale\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jpluc\\OneDrive\\Documents\\UpSkill\\Mod4\\Tentativa10000\\API\\JobPortal_API\\JobPortal_API\\JobPortal_API.csproj",
+      "projectUniqueName": "C:\\Users\\Ale\\Desktop\\GitHub gmail\\UPskill\\Projeto Modulo 4 (MVC e SQL)\\JobPortal_API\\JobPortal_API\\JobPortal_API.csproj",
       "projectName": "JobPortal_API",
-      "projectPath": "C:\\Users\\jpluc\\OneDrive\\Documents\\UpSkill\\Mod4\\Tentativa10000\\API\\JobPortal_API\\JobPortal_API\\JobPortal_API.csproj",
-      "packagesPath": "C:\\Users\\jpluc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jpluc\\OneDrive\\Documents\\UpSkill\\Mod4\\Tentativa10000\\API\\JobPortal_API\\JobPortal_API\\obj\\",
+      "projectPath": "C:\\Users\\Ale\\Desktop\\GitHub gmail\\UPskill\\Projeto Modulo 4 (MVC e SQL)\\JobPortal_API\\JobPortal_API\\JobPortal_API.csproj",
+      "packagesPath": "C:\\Users\\Ale\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ale\\Desktop\\GitHub gmail\\UPskill\\Projeto Modulo 4 (MVC e SQL)\\JobPortal_API\\JobPortal_API\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\jpluc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Ale\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2741,7 +2736,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
